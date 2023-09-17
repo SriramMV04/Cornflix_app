@@ -1,5 +1,5 @@
 class ConstantKeys {
-  static const apiKey = '814fdd0d552ca15cb99c46eedccf9c9e';
+  static const apiKey = 'enter your API key';
   static const imageUrl = 'https://image.tmdb.org/t/p/w500';
 
   static const topRatedMoviesUrl =
